@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm riadh nouri" title="👋 Hi there! I'm riadh nouri"/>
+<img src="https://raw.githubusercontent.com/RIADH-NOURI/RIADH-NOURI/main/intro.gif" alt="👋 Hi there! I'm riadh nouri" title="👋 Hi there! I'm riadh nouri"/>
 <div align="justify">
 
 <a href="https://www.instagram.com/rzashakeri/">
@@ -16,7 +16,7 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
+welcome to my GitHub Page. I am Riadh Nouri and now Computer engineering student, I learn new things about programming and teach these things to others,I passionate web devlopement from algeria
 
 </p>
 
@@ -26,30 +26,22 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
 <table>
   <tr>
+    
+   
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     </td>
        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
           <td align="center" width="96">
@@ -57,11 +49,11 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
       <br>Rest API
     </td>
           <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+        <img src="https://techstack-generator.vercel.app/express-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+        <img src="https://techstack-generator.vercel.app/npm-icon.svg" alt="icon" width="50" height="50" />
       <br>Nginx
     </td>
   </tr>
@@ -71,45 +63,45 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+        <img src="https://skillicons.dev/icons?i=mongo" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="css" />
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="jquery" />
       <br>JQuery
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=render" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
+        <img src="https://skillicons.dev/icons?i=netilfy" width="48" height="48" alt="ASP.NET Core" />
       <br>ASP.NET
     </td>
   </tr>
    <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+        <img src="https://skillicons.dev/icons?i=vit" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
             <td align="center" width="96">
@@ -167,7 +159,7 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=RIADH-NOURI&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
 
