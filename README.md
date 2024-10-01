@@ -26,35 +26,25 @@ welcome to my GitHub Page. I am Riadh Nouri and now Computer engineering student
 
 <table>
   <tr>
-    
-   
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="Git" />
+      <br>Html
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="Git" />
+      <br>css
     </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="Git" />
+      <br>Js
     </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Git" />
+      <br>express
     </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/express-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/npm-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Git" />
+      <br>nodejs
     </td>
   </tr>
   <tr>
@@ -107,30 +97,6 @@ welcome to my GitHub Page. I am Riadh Nouri and now Computer engineering student
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
-    </td>
-    <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
-    </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
     </td>
   </tr>
  <tr>
