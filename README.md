@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/discord-330F63?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="riadhnouri34@gmail.com">
+<a href="mailto:riadhnouri0502@gmail.com">
 <img src="https://img.shields.io/badge/gmail-330F63?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
