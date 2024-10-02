@@ -81,7 +81,7 @@ welcome to my GitHub Page. I am Riadh Nouri and now Computer engineering student
       <br>vercel
     </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=render" width="48" height="48" alt="render" />
+        <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)" width="85" height="48" alt="render" />
       <br>render
     </td>
   </tr>
@@ -103,7 +103,7 @@ welcome to my GitHub Page. I am Riadh Nouri and now Computer engineering student
       <br>tailwind
     </td>
           <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=chakraui" width="48" height="48" alt="chakraui" />
+        <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white" width="85" height="48" alt="chakraui" />
       <br>ckakra
     </td>
        <td align="center" width="96">
