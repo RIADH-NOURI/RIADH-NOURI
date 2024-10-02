@@ -24,7 +24,7 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Riadh Nouri and now Computer engineering student, I learn new things about programming and teach these things to others,I passionate web devlopement from algeria
+welcome to my GitHub Page. I am Riadh Nouri and now Computer engineering student, I learn new things about programming,I passionate web devlopement from algeria
 
 </p>
 
