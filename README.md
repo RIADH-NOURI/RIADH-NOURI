@@ -102,9 +102,9 @@ welcome to my GitHub Page. I am Riadh Nouri and now Computer engineering student
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>tailwind
     </td>
-          <td align="center" width="96">
-        <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white" width="85" height="48" alt="chakraui" />
-      <br>ckakra
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="next" />
+      <br>next
     </td>
        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
