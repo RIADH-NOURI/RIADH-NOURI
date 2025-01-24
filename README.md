@@ -112,6 +112,30 @@ welcome to my GitHub Page. I am Riadh Nouri and now Computer engineering student
     </td>
   </tr>
  <tr>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
+      <br>nodeJs
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
+      <br>redis
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="postgresql" />
+      <br>sql
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="bun" />
+      <br>bun
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="supabase" />
+      <br>supabase
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="nginx" />
+      <br>nginx
+    </td>
  </tr>
 </table>
 
