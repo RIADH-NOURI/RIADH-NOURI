@@ -122,7 +122,7 @@ welcome to my GitHub Page. I am Riadh Nouri and now Computer engineering student
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="postgresql" />
-      <br>sql
+      <br>postgresql
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="bun" />
@@ -133,8 +133,8 @@ welcome to my GitHub Page. I am Riadh Nouri and now Computer engineering student
       <br>supabase
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="nginx" />
-      <br>nginx
+        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
+      <br>prisma
     </td>
  </tr>
 </table>
