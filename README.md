@@ -65,8 +65,8 @@ welcome to my GitHub Page. I am Riadh Nouri and now Computer engineering student
       <br>git
     </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
-      <br>github
+        <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="next" />
+      <br>next
     </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
@@ -103,8 +103,8 @@ welcome to my GitHub Page. I am Riadh Nouri and now Computer engineering student
       <br>tailwind
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="next" />
-      <br>next
+        <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="nginx" />
+      <br>nginx
     </td>
        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
