@@ -73,8 +73,8 @@ welcome to my GitHub Page. I am Riadh Nouri and now Computer engineering student
       <br>postman
     </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="netlify" />
-      <br>netlify
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
+      <br>docker
     </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="vercel" />
