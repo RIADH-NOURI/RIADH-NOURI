@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/channels/@me">
+<a href="https://discord.com/users/1218857541765824553">
 <img  target=_blank src="https://img.shields.io/badge/discord-330F63?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
