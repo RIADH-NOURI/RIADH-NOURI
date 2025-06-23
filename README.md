@@ -137,6 +137,32 @@ welcome to my GitHub Page. I am Riadh Nouri and now Computer engineering student
       <br>prisma
     </td>
  </tr>
+  <tr>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="go" />
+      <br>go
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
+      <br>aws
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="graphql" />
+      <br>graphql
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="heroku" />
+      <br>heroku
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="kafka" />
+      <br>kafka
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="ubuntu" />
+      <br>ubuntu
+    </td>
+  </tr>
 </table>
 
 ## Github stats 📊
