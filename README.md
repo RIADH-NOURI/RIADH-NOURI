@@ -159,8 +159,8 @@ welcome to my GitHub Page. I am Riadh Nouri and now Computer engineering student
       <br>kafka
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="ubuntu" />
-      <br>ubuntu
+        <img src="https://skillicons.dev/icons?i=nest" width="48" height="48" alt="nest" />
+      <br>nest
     </td>
   </tr>
 </table>
